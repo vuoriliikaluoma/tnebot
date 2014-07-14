@@ -69,3 +69,4 @@ end
 feeds["The Nintendo Element"].each do |item|
   puts "Item: #{item.title} - #{item.link}"
 end
+
